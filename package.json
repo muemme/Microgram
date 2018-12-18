@@ -1,0 +1,13 @@
+{
+  "name": "microgram",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/muemme/Microgram.git",
+  "license": "copyright",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0"
+  }
+}
