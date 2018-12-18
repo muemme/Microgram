@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E5E3C3;}
+	.st1{fill:#CE3E3D;}
+	.st2{fill:#FF8484;}
+	.st3{fill:#729551;}
+	.st4{fill:#BBD18A;}
+	.st5{fill:#FEDE68;}
+	.st6{fill:#ED9F32;}
+	.st7{fill:#E6AC00;}
+	.st8{fill:#FFED8E;}
+	.st9{fill:#FED544;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="339.2,37 339.2,555.4 852.5,851.8 852.5,333.3 		"/>
+		<polygon class="st1" points="852.5,851.8 916.7,814.8 916.7,295.8 852.5,333.3 		"/>
+		<polygon class="st2" points="852.5,333.3 339.2,37 403.4,0 916.7,295.8 		"/>
+	</g>
+	<g>
+		<polygon class="st0" points="275.1,74.1 275,592.5 788.4,888.9 788.4,370.4 		"/>
+		<polygon class="st3" points="788.4,888.9 852.5,851.8 852.5,332.9 788.4,370.4 		"/>
+		<polygon class="st4" points="788.4,370.4 275.1,74.1 339.2,37 852.5,332.9 		"/>
+	</g>
+	<g>
+		<polygon class="st5" points="210.9,111.1 210.9,629.5 724.2,925.9 724.2,407.4 		"/>
+		<polygon class="st6" points="210.9,356.7 210.9,629.5 724.2,925.9 724.2,653 		"/>
+		<polygon class="st7" points="724.2,925.9 788.4,888.8 788.4,369.9 724.2,407.4 		"/>
+		<polygon class="st8" points="724.2,407.4 210.9,111.1 275.1,74.1 788.4,369.9 		"/>
+	</g>
+	<path class="st9" d="M595.8,1000L82.5,703.6c0,0,128.3-74,128.3-296.4c0-74.5,0-148.2,0-148.2L724,555.6c0,0,0.2,74,0.2,148.1
+		C724.2,925.9,595.8,1000,595.8,1000z"/>
+</g>
+</svg>
