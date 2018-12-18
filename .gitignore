@@ -1,3 +1,7 @@
 ecosystem.config.js
 
 .env
+
+node_modules
+
+.vscode

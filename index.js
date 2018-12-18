@@ -18,6 +18,12 @@ const httpsOptions = {
   ca,
 };
 
+app.get('*', function(req, res) {  
+  if (!req.secure) {
+    res.redirect('https://' + req.headers.host + req.url);
+  }
+});
+
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(helmet());
@@ -26,7 +32,6 @@ app.use(express.static(process.env.SERVE_DIRECTORY));
 /* app.get('/', (req, res) => {
   return res.end('<p>This server serves up static files.</p>');
 }); */
-
 
 const httpServer = http.createServer(app).listen(process.env.PORT_HTTP, () => {
   console.log(`app running on port ${httpServer.address().port}`);
