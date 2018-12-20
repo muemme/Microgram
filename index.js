@@ -19,7 +19,7 @@ const httpsOptions = {
 };
 
 app.get('*', function(req, res, next) {  
-  if (!req.secure) {
+  if (!req.secure && process.env.ENV_TYPE === 'production') {
     res.redirect('https://' + req.headers.host + req.url);
   } else {
     next();
