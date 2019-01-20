@@ -148,7 +148,7 @@ center {
 .gframe {
 
 width: 49%;
-height: 200vh; 
+height: 180vh; 
 padding-top: 50px;
 	
 }
@@ -235,14 +235,28 @@ padding-top: 50px;
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     #unternehmer {
         margin-top: 13vh;
         margin-left: 28px;
     }
+	
+	.gframe {
+
+width: 100%;
+
+	}
+	
+	
+	
+	
+	
+	
     
-@media (max-width: 1075px) {
-    }
+@media (max-width: 1275px) {
+    
+	
+	}
 
 .test {
         justify-content: center;
@@ -253,6 +267,8 @@ padding-top: 50px;
         margin: 0;
     }
 }
+
+
 
 
 
